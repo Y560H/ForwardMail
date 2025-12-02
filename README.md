@@ -13,4 +13,6 @@ TM_KV
 域名->电子邮件路由 -> catch-all ->指向此workers
 
 
-
+![1](https://github.com/Y560H/ForwardMail/blob/main/img/1.jpeg)
+![2](https://github.com/Y560H/ForwardMail/blob/main/img/2.jpeg)
+![3](https://github.com/Y560H/ForwardMail/blob/main/img/3.jpeg)
